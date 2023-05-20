@@ -9,7 +9,6 @@ html {
     background-size: cover;  
 }
 
-
 @media (max-width: 768px) {
     html {
         background-image: url("/images/skatingRink.jpg");
@@ -17,7 +16,6 @@ html {
         background-repeat: no-repeat;
         background-attachment: fixed;
     }
-
 }
     
 /*header*/
@@ -42,6 +40,7 @@ li:hover {
     color: lightblue;
     cursor: pointer;
 }
+
 @media (max-width: 800px) {
     a, li {
         flex-flow: row;
@@ -50,6 +49,7 @@ li:hover {
     }
 }
 
+/*body*/
 h1 {
     color: lightblue;
     font-family: 'Lobster', cursive;
