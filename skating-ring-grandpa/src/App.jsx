@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      Hi
+      <h1>Genes Roller Rama</h1>
     </>
   )
 }
